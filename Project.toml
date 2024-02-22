@@ -1,0 +1,4 @@
+name = "MNP3DOrientationEstimation"
+uuid = "9491b3eb-3a56-4f07-a9dd-13a96ba9cea3"
+authors = ["Marvin Voelcker <Marvin.Max@gmx.net>"]
+version = "0.1.0"
